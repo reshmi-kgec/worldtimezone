@@ -34,6 +34,7 @@
 				<applicationName>worldtimezone-service</applicationName>
 				<password>Fr33bird</password>
 				<muleVersion>4.2.2</muleVersion>
+				<objectStoreV2>true</objectStoreV2>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
